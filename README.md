@@ -2,9 +2,12 @@
 
 罪を犯したプレイヤーをBANせずに晒し者にするには最適なプラグインです。
 
+Paper 1.21.11-1.21.4 動作確認済
+Java 21以上
 
 日本語にのみ対応しています / Japanese Only! Sorry ^^;
 
+![牢獄の様子](https://cdn.modrinth.com/data/cached_images/ae0b3c09fcd99897f27c68bddc76c60227491193.jpeg)
 
 # 基本的な機能
 
